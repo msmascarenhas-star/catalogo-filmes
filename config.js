@@ -1,0 +1,2 @@
+// Token pessoal do TMDB (não vai para o git).
+window.TMDB_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMzkzY2VkOTk3OTE0NDZkYWEwMjliYWQyMWZkYTlmMSIsIm5iZiI6MTc5MjQzNjQ5OC41ODUsInN1YiI6IjZhZDY2OTEyNTliYzc0MjhkNmJlMGMzNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.KkWKa2R5IC9bghZ8r33OJulACIlWSF395V_KIdmYi_g";
